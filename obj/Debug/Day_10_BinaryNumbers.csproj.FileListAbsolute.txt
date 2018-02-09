@@ -1,0 +1,6 @@
+C:\Users\dj\Desktop\Stuff\Day_10_BinaryNumbers\Day_10_BinaryNumbers\bin\Debug\Day_10_BinaryNumbers.exe.config
+C:\Users\dj\Desktop\Stuff\Day_10_BinaryNumbers\Day_10_BinaryNumbers\bin\Debug\Day_10_BinaryNumbers.exe
+C:\Users\dj\Desktop\Stuff\Day_10_BinaryNumbers\Day_10_BinaryNumbers\bin\Debug\Day_10_BinaryNumbers.pdb
+C:\Users\dj\Desktop\Stuff\Day_10_BinaryNumbers\Day_10_BinaryNumbers\obj\Debug\Day_10_BinaryNumbers.csprojResolveAssemblyReference.cache
+C:\Users\dj\Desktop\Stuff\Day_10_BinaryNumbers\Day_10_BinaryNumbers\obj\Debug\Day_10_BinaryNumbers.exe
+C:\Users\dj\Desktop\Stuff\Day_10_BinaryNumbers\Day_10_BinaryNumbers\obj\Debug\Day_10_BinaryNumbers.pdb
